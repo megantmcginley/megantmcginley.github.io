@@ -1,9 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
  @import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css");
 
-.glyphicon { 
-}
-
 body {
   text-align:center;
   font-family: 'Open Sans Condensed', sans-serif;
@@ -42,7 +39,7 @@ span {
 
 .navbar-nav>li>a:hover, .navbar-nav>li.dropdown.active.open>a {
   color:#26bd3a;
-  background-color:white;
+  background-color:black;
 }
 
 .navbar-brand {
