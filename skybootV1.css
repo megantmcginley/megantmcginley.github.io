@@ -1,0 +1,93 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+ @import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css");
+
+.glyphicon { 
+}
+
+body {
+  text-align:center;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size:2.0em;
+}
+
+span {
+  font-family: 'Glyphicons Halflings';
+}
+
+/*body, div {
+    border: 1px dashed;
+}*/
+
+
+.navbar {
+  margin-bottom:-0px;
+
+
+  color:#26BD3A;
+  margin-top:0px;
+  margin-right:7px;
+}
+
+
+
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>li>a:hover, 
+.navbar-inverse .navbar-nav>li>a:focus 
+{ background-color: white}
+
+.navbar-nav>li>a {
+  color:#222222;
+  background-color:white;
+}
+
+.navbar-nav>li>a:hover, .navbar-nav>li.dropdown.active.open>a {
+  color:#26bd3a;
+  background-color:white;
+}
+
+.navbar-brand {
+  color:#222222;
+}
+
+.navbar-brand:hover {
+  color:#428BCA;
+}
+
+#jumbotron {
+  /*background-image: url(https://lh4.googleusercontent.com/-TtYxCbC_TcQ/U_6p9hgtGiI/AAAAAAAACQs/s-YM4mDvyrw/w941-h403-no/IMG_20140828_000259.jpg);
+  background-size:100%;
+  background-repeat: no-repeat;*/
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  width:100%;
+}
+
+.image
+{
+width:100%;
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+}
+
+h1 {
+  font-size:3em;
+  letter-spacing:1px;
+}
+
+
+
+.U3 h3 {
+ color:#26BD3A; 
+}
+
+.U3 li {
+  list-style:none;
+}
+
+.U3 h4 {
+  
+}
+
+.signature {
+  line-height: .9;
+}
