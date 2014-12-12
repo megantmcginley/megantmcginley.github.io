@@ -26,8 +26,9 @@ span {
 
 .navbar-inverse .navbar-nav>.active>a:hover,
 .navbar-inverse .navbar-nav>li>a:hover, 
-.navbar-inverse .navbar-nav>li>a:focus 
-{ background-color: white}
+.navbar-inverse .navbar-nav>li>a:focus { 
+ background-color: white
+}
 
 .navbar-nav>li>a {
   color:#222222;
@@ -90,3 +91,8 @@ h1 {
 .signature {
   line-height: .9;
 }
+
+.container-fluid {
+ background-color:white;
+}
+
