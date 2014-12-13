@@ -11,6 +11,9 @@ span {
   font-family: 'Glyphicons Halflings';
 }
 
+li {
+    font-family: 'Raleway', sans-serif;
+}
 /*body, div {
     border: 1px dashed;
 }*/
