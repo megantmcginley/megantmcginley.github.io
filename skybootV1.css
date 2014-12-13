@@ -11,7 +11,7 @@ span {
   font-family: 'Glyphicons Halflings';
 }
 
-li {
+li, p {
     font-family: 'Raleway', sans-serif;
 }
 /*body, div {
