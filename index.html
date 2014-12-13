@@ -3,10 +3,10 @@
   <head>
     <title>Megan McGinley</title>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'><!--displays desktop, mobile, and tablet designs respectively regardless if device can handle pixels used w desktop site.-->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
     <link type ='text/css' rel = 'stylesheet' href='bootstrap.css'>
     <link type='text/css' rel='stylesheet' href='skybootV1.css'>
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
   </head>
   <body>
     
@@ -26,21 +26,16 @@
         </div>
         
         <div class="collapse navbar-collapse navHeaderCollapse"> <!--engages when need to resize-->
- 
           <ul class="nav navbar-nav navbar-right">
             <li><a href="about.html">About</a></li>
             <li><a href="education.html">Education</a></li>
             <li><a href="projects.html">Projects</a></li>
             <li class='dropdown'>
-                <button class='btn btn-default dropdown-toggle' type='button' id='dropdownMenu1'
-                data-toggle='dropdown' aria-expanded='true'>
-                  More<span class='caret'></span>
-                </button>
-                <ul class ='dropdown-menu' role='menu' aria-labelledby='dropdownMenu1'>
-                  <li role='presentation'><a role='menuitem' tabindex='-1' href='#'>Twitter</a></li>
-                </ul>
+              <a class='dropdown-toggle' data-toggle='dropdown' href='#'>More<span class='caret'></span></a>
+              <ul class='dropdown-menu'>
+                <li><a href='#'>Twitter</a></li>
+              </ul>
             </li>
-
         </div>
     
 </div>
