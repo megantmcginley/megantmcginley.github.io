@@ -55,7 +55,7 @@ li, p, h2, h3, h4, h5, h6 {
   background-color:black;
 }
 
-.dropdown-menu:focus {
+.dropdown>a:focus, .dropdown-menu>li>a:focus {
   background-color:white;
 }
 
