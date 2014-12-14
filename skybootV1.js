@@ -2,6 +2,6 @@ $(document.ready(function (){
     
     $('dropdown-toggle').dropdown();
     
-    $('name').slideUp("fast");
+    $('.name').slideUp("fast");
 
 });
