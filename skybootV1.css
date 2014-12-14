@@ -39,7 +39,7 @@ li, p, h2, h3, h4, h5, h6 {
 
 .navbar-nav>li>a:hover, 
 .nav.navbar-nav>li.dropdown.open>a, 
-.nav.navbar-nav>li.dropdown.active.open>a:hover {
+.nav.navbar-nav>li.dropdown.active.open>ul.dropdown-menu a:hover {
   color:#26bd3a;
   background-color:white;
 }
