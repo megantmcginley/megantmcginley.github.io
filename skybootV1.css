@@ -71,6 +71,10 @@ li.dropdown {
   background-color:white;
 }
 
+#paddedjumbotron {
+  padding:20% 0px 20% 0px;
+}
+
 .jumbotron p {
   font-size:18px;
 }
