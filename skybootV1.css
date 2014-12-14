@@ -14,6 +14,7 @@ span {
 li, p, h2, h3, h4, h5, h6 {
     font-family: 'Raleway', sans-serif;
 }
+
 /*body, div {
     border: 1px dashed;
 }*/
@@ -24,7 +25,6 @@ li, p, h2, h3, h4, h5, h6 {
   margin-top:0px;
   margin-right:7px;
 }
-
 
 .navbar-inverse .navbar-nav>.active>a:hover,
 .navbar-inverse .navbar-nav>li>a:hover, 
@@ -53,6 +53,10 @@ li, p, h2, h3, h4, h5, h6 {
 .icon-bar {
   color:black;
   background-color:black;
+}
+
+.dropdown-menu {
+  background-color:white;
 }
 
 #jumbotron {
