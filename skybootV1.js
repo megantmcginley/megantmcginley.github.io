@@ -5,6 +5,6 @@ $(document.ready(function (){
 });
 
 $(document.ready(function (){
-    $('div.name').slideUp('fast',function(){
+    $('.name').slideUp('fast',function(){
     }); 
 });
