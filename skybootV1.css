@@ -71,12 +71,22 @@ li.dropdown {
   background-color:white;
 }
 
+#leadpaddedjumbotron {
+  padding:5% 0px 20% 0px;
+  background-color:white;
+}
+
 #paddedjumbotron {
   padding:20% 0px 20% 0px;
+    background-color:white;
 }
 
 .jumbotron p {
   font-size:18px;
+}
+
+.jumbotron h1 {
+  font-size:3.0em;
 }
 
 .image
@@ -91,12 +101,6 @@ h1 {
   letter-spacing:1px;
   font-family: 'Raleway', sans-serif;
 }
-
-.jumbotron h1 {
-  font-size:3.0em;
-}
-
-
 
 .U3 h3 {
  color:#26BD3A; 
