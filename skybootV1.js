@@ -2,7 +2,7 @@ $(document.ready(function (){
     
     $('dropdown-toggle').dropdown();
     
-    $('.name').animate({
+    $('#name').animate({
        height: "50%" 
     });
     
