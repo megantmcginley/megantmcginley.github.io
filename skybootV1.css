@@ -72,7 +72,7 @@ li.dropdown {
 }
 
 .jumbotron p {
-  font-size:0.5em;
+  font-size:1.0em;
 }
 
 .image
@@ -86,6 +86,10 @@ h1 {
   font-size:3em;
   letter-spacing:1px;
   font-family: 'Raleway', sans-serif;
+}
+
+.jumbotron h1 {
+  font-size:1.0em;
 }
 
 
