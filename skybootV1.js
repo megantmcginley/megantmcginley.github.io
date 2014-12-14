@@ -5,6 +5,7 @@ $(document.ready(function (){
 });
 
 $(document.ready(function (){
-    $('.name').slideUp('fast',function(){
-    }); 
+    $('.name').animate({
+       height: "50%" 
+    });
 });
