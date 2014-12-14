@@ -55,7 +55,7 @@ li, p, h2, h3, h4, h5, h6 {
   background-color:black;
 }
 
-.dropdown>a:focus, .dropdown-menu>li>a:focus {
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
   background-color:white;
 }
 
@@ -91,9 +91,6 @@ h1 {
   list-style:none;
 }
 
-.U3 h4 {
-  
-}
 
 .signature {
   line-height: .9;
