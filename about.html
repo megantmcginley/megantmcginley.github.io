@@ -2,16 +2,22 @@
 <html>
   <head>
     <title>About</title>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0'><!--displays desktop, mobile, and tablet designs respectively regardless if device can handle pixels used w desktop site.-->
+<meta name='viewport' content='width=device-width, initial-scale=1.0'><!--displays desktop, mobile, and tablet designs respectively regardless if device can handle pixels used w desktop site.-->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <script type='text/javascript' src='skybootV1.js'></script>
     <link type='text/css' rel='stylesheet' href='skybootV1.css'>
     <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
   </head>
   <body>
-  
-  <div class = "navbar .navbar-inverse navbar-static-top">
-  
+    
+    
+   <!-- <h1>Hello, WORLD</h1> --><!--Bootstrap text in is Sans serif vs reg Safari-Arial/times?-->
+    
+<div class = "navbar .navbar-inverse navbar-static-top">
+    
+       
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle ="collapse" data-target=".navbar-collapse">
               <span class="icon-bar"></span>
@@ -22,28 +28,22 @@
         </div>
         
         <div class="collapse navbar-collapse navHeaderCollapse"> <!--engages when need to resize-->
- 
-          <ul class="nav navbar-nav navbar-right">
+          <ul class="nav navbar-nav navbar-right nav-pills">
             <li><a href="about.html">About</a></li>
             <li><a href="education.html">Education</a></li>
             <li><a href="projects.html">Projects</a></li>
-            <li class='dropdown'>
-                   <a href='#' class="dropdown-toggle" data-toggle='dropdown'>More<b class='caret'></b></a>
-                   <ul class='dropdown-menu'>
-                     <li><a href='#'>Twitter</a></li>
-                     <li><a href="#">Blog</a></li>
-                   </ul>
+            <li role='presentation' class='dropdown'>
+              <a class='dropdown-toggle' data-toggle='dropdown' href='#' role='button' aria-expanded='false'>
+              More<span class='caret'></span></a>
+              <ul class='dropdown-menu' role='menu'>
+                <li><a href='https://twitter.com/megan_mcginley'>Twitter</a></li>
+              </ul>
             </li>
-          </ul>
-
         </div>
     
-  </div>
-    
-   <!-- <h1>Hello, WORLD</h1> --><!--Bootstrap text in is Sans serif vs reg Safari-Arial/times?-->
+</div>
     
   
-
   <div class='jumbotron' id="jumbotron">
   <div class='container-fluid'>
     <img class='image' src='https://lh3.googleusercontent.com/-t3RzqpbQpU8/VIonGeW4BgI/AAAAAAAADJI/rre2erVxhyo/w881-h496-no/20141007_221545.jpg'>
