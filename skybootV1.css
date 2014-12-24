@@ -123,3 +123,9 @@ h1 {
 .container-fluid {
  background-color:white;
 }
+
+.pyramid{
+  width:50%;
+  height:auto;
+}
+}
