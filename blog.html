@@ -3,6 +3,8 @@
   <head>
     <title>Blog</title>
 <meta name='viewport' content='width=device-width, initial-scale=1.0'><!--displays desktop, mobile, and tablet designs respectively regardless if device can handle pixels used w desktop site.-->
+   <link href="//vjs.zencdn.net/4.11/video-js.css" rel="stylesheet">
+<script src="//vjs.zencdn.net/4.11/video.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
@@ -37,6 +39,7 @@
               More<span class='caret'></span></a>
               <ul class='dropdown-menu' role='menu'>
                 <li><a href='https://twitter.com/megan_mcginley'>Twitter</a></li>
+                <li><a href='blog.html'>Video Blog</a></li>
               </ul>
             </li>
         </div>
@@ -45,14 +48,30 @@
 
 
 <h1>Meg's Video Blog</h1>
-<small>Brining memories to life</small>
+<h4>Brining memories to life</h4>
 
-<div class='container>
-  <div class='col-lg-4 col-md-4'>
+<div class='container'>
+  <div class='col-lg-4 col-md-4' class='text-left'>
     <h3>Meg Takes New York Pt.1 </h3>
     <small>August 2014</small>
+    <p>Okay, so this is my first solo traveling trip to New York. Had some extra cash from the summer to spare, and figured this
+    would be a great get away celebration before the college semester kicks in again.<br> 
+      Fun Fact: I had just got off the plane and ran into some Gator Alumni.
+      Turns out the Gator Nation really is everywhere! That little run in defintely made me feel more comfortable as I make my way into the city.
+    </p>
+    <
   </div>
   
+  
+  <video id="example_video_1" class="video-js vjs-default-skin"
+  controls preload="auto" width="640" height="264"
+  poster="http://video-js.zencoder.com/oceans-clip.png"
+  data-setup='{"example_option":true}'>
+ <source src="http://video-js.zencoder.com/oceans-clip.mp4" type='video/mp4' />
+ <source src="http://video-js.zencoder.com/oceans-clip.webm" type='video/webm' />
+ <source src="http://video-js.zencoder.com/oceans-clip.ogv" type='video/ogg' />
+ <p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
+</video>
   
 </body>
 </html>
