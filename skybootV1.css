@@ -136,14 +136,13 @@ h1 {
   background-color:#FFF273;
 }
 
-.projectsTable {
+/*.projectsTable {
   background-color:black;
   opacity:0.5;
-}
+}*/
 
 .tableHeaderCustom {
   padding:22%;
-  color:white;
-  opacity:1;
+  color:black;
 }
 
