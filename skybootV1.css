@@ -139,5 +139,9 @@ h1 {
 .projectsTable {
   background-color:black;
   opacity:0.25;
-  height:100%;
+}
+
+tr {
+  padding:25%;
+}
 }
