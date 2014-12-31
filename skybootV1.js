@@ -1,12 +1,9 @@
 $(document.ready(function (){
     
-    $('dropdown-toggle').dropdown();
-    
-    $('#name').animate({
+    $('.NAME').animate({
        height: "20%" 
     });
-    
-    $('div').hide();
+
     
     
 });
