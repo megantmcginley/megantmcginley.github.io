@@ -138,11 +138,11 @@ h1 {
 
 .projectsTable {
   background-color:black;
-  opacity:0.3;
+  opacity:0.5;
 }
 
 .tableHeaderCustom {
   padding:22%;
-  color:white;
+  color:black;
 }
 
