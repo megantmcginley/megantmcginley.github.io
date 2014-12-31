@@ -133,7 +133,8 @@ h1 {
 }
 
 .pyramid{
-  width:50%;
-  height:auto;
+  width:auto;
+  height:30%;
+  overflow:hidden;
 }
 
