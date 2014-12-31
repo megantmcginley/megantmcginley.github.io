@@ -1,3 +1,5 @@
+alert('Test');
+
 $(document.ready(function (){
     
     $('.NAME').animate({
