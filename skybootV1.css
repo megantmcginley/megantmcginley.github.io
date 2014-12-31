@@ -96,6 +96,13 @@ margin: 0px 0px 0px 0px;
 padding: 0px 0px 0px 0px;
 }
 
+.pyramid {
+height:20%;  
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+}
+
+
 h1 {
   font-size:4.0em;
   letter-spacing:1px;
@@ -127,9 +134,4 @@ h1 {
   background-color:#FFF273;
 }
 
-.pyramid{
-  width:auto;
-  height:20%;
-  overflow:hidden;
-}
 
