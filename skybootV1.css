@@ -136,8 +136,8 @@ h1 {
   background-color:#FFF273;
 }
 
-tr {
-  height:50%;
+.projectsTable {
+  bgcolor:black;
+  opacity:50%;
+  
 }
-
-
