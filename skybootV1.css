@@ -141,8 +141,25 @@ h1 {
   opacity:0.5;
 }*/
 
+.tdBackground1 {
+  background-image:url('https://lh4.googleusercontent.com/-GKTKgMVjEBk/VKTGlzpyFWI/AAAAAAAADVw/8k_O_UDCcEM/w564-h376-no/highwaylights.jpg');
+  opacity:0.5;
+  background-position:center;
+  background-repeat:no-repeat;
+  width:auto;
+  height:auto;
+}
+
+.tdBackground2 {
+  background-image:url('https://lh3.googleusercontent.com/-aguEJeEP6Ms/UzRV9898aYI/AAAAAAAADWE/jBF9xDzY-F4/w622-h420-no/20140327_123729.jpg');
+    opacity:0.5;
+  background-position:center;
+  background-repeat:no-repeat;
+}
+
 .tableHeaderCustom {
   padding:22%;
   color:black;
 }
+
 
