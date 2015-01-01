@@ -153,8 +153,9 @@ width: 100% \9;
 .tdBackground2 {
   background-image:url('https://lh3.googleusercontent.com/-aguEJeEP6Ms/UzRV9898aYI/AAAAAAAADWE/jBF9xDzY-F4/w622-h420-no/20140327_123729.jpg');
     opacity:0.5;
-  background-position:center;
+  position:center;
   background-repeat:no-repeat;
+  width: 100% \9;
 }
 
 .tableHeaderCustom {
