@@ -2,6 +2,6 @@ alert('Test');
 
 $(document).ready(function(){
   $('#NAME').hide();
-  $('#NAME').show("slide", 1000);
+  $('#NAME').show("slide" "up" 1000);
   
 });
