@@ -148,7 +148,7 @@ h1 {
   vertical-align:middle;
   background-repeat:no-repeat;
 width: 100% \9;
-  height:auto;
+  overflow:hidden;
 }
 
 .tdBackground2 {
@@ -158,6 +158,7 @@ width: 100% \9;
   vertical-align:middle;
   background-repeat:no-repeat;
   width: 100% \9;
+  overflow:hidden;
 }
 
 .tableHeaderCustom {
