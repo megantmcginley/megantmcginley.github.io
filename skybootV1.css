@@ -78,7 +78,8 @@ li.dropdown {
 
 #paddedjumbotron {
   padding:20% 0px 35% 0px;
-    background-color:white;
+    background-color:black;
+    opacity:0.5;
 }
 
 .jumbotron p {
