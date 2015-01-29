@@ -102,6 +102,13 @@ margin: 0px 0px 0px 0px;
 padding: 0px 0px 0px 0px;
 }
 
+.odome {
+  width:100%;
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+filter: grayscale(50%);
+}
+
 .pyramid {
 height:20%;  
 margin: 0px 0px 0px 0px;
