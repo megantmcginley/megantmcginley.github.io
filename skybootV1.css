@@ -76,9 +76,14 @@ li.dropdown {
   background-color:white;
 }
 
-#paddedjumbotron {
-  padding:20% 0px 20% 0px;
+#paddedjumbotronMindset {
+  padding:12% 0px 20% 0px;
 background-image: url(https://lh6.googleusercontent.com/-h_Iua9RoZ60/VMniC0e8MEI/AAAAAAAADco/fUd9yBeOX6c/s50-no/transpBlack10.png);
+}
+
+#paddedjumbotron2 {
+  padding:20% 0px 20% 0px;
+
 }
 
 .jumbotron p {
