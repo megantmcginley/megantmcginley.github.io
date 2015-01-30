@@ -117,6 +117,11 @@ overflow:hidden;
 border: 2px black;
 }
 
+.currently {
+   border-color:#26bd3a; 
+   border:4px; 
+   border-bottom-style:solid;
+}
 
 h1 {
   font-size:4.0em;
