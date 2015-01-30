@@ -1,7 +1,7 @@
 <svg id="svg-source" height="0" version="1.1" 
   xmlns="http://www.w3.org/2000/svg" style="position:absolute; margin-left: -100%" 
   xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g id="map" data-iconmelon="Jolly Icons:32f7fb55c65f36624fc5d78182b44f53">
+      <g id="map" data-iconmelon="Jolly Icons:32f7fb55c65f36624fc5d78182b44f53">
     <g>
       <path fill-rule="evenodd" clip-rule="evenodd" d="M4.94,18.76c0.521-0.178,0.936-0.463,0.954-1.145
 		c-0.571-0.484-1.436,0.068-1.432,0.764C4.653,18.475,4.614,18.801,4.94,18.76z"></path>
@@ -64,7 +64,7 @@
 		c0.456,0.238,0.705-0.227,1.05-0.381c0.275-0.266,0.695-0.387,0.573-1.05C23.349,12.789,23.277,12.608,22.976,12.653z"></path>
     </g>
   </g>
-</svg>
+
   
   
   <g id="computer" data-iconmelon="Streamline Icon Set:348456d2852a6907b5762245a631801c">
