@@ -215,6 +215,17 @@ width: 100% \9;
   fill: #525151;
 }
 
+.iconmelon:after,
+.im:after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
 .iconmelon.404icon,
 .im.404icon {
   position: relative;
@@ -224,8 +235,8 @@ width: 100% \9;
   fill: #525151;
 }
 
-.iconmelon:after,
-.im:after {
+.iconmelon.404icon:after,
+.im.404icon:after {
   content: '';
   position: absolute;
   top: 0;
