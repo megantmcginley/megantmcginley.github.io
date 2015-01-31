@@ -66,7 +66,7 @@ li.dropdown {
   padding: 2% 0px 2% 0px;
 }
 
-.btn.toTop {
+.btn.toTop>a, .btn.toTop>a:hover {
   color:#26bd3a;
   background-color:white;
 }
