@@ -105,6 +105,13 @@ background-image: url(https://lh6.googleusercontent.com/-h_Iua9RoZ60/VMniC0e8MEI
 background-image: url(https://lh6.googleusercontent.com/-h_Iua9RoZ60/VMniC0e8MEI/AAAAAAAADco/fUd9yBeOX6c/s50-no/transpBlack10.png);
 }
 
+.currently {
+  border-right:solid;
+  border-color:black;
+  border:3px;
+}
+
+
 .jumbotron p {
   font-size:18px;
 }
