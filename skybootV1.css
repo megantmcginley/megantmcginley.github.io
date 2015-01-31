@@ -61,7 +61,12 @@ li.dropdown {
   background-color:white;
 }
 
-.toTop {
+
+.aboutfooter{
+  padding: 3% 0px 3% 0px;
+}
+
+btn.toTop {
 color:#26bd3a;
 }
 
@@ -143,6 +148,10 @@ h1 {
 }
 
 
+
+
+
+
 .signature {
   line-height: .9;
 }
@@ -152,13 +161,7 @@ h1 {
 
 }
 
-.fyf {
-  background-color:#26BD3A;
-}
 
-.ete {
-  background-color:#FFF273;
-}
 
 /*.projectsTable {
   background-color:black;
