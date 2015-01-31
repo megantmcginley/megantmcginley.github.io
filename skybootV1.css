@@ -214,6 +214,16 @@ width: 100% \9;
   display: block;
   fill: #525151;
 }
+
+.iconmelon.icon404,
+.im.icon404 {
+  position: relative;
+  width: 240px;
+  height: 240px;
+  display: block;
+  fill: #525151;
+}
+
 .iconmelon:after,
 .im:after {
   content: '';
