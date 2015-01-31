@@ -120,7 +120,7 @@ border: 2px black;
 .currently {
    border-color:#26bd3a; 
    border:3px; 
-   border-bottom-style:solid;
+   border-right-style:solid;
 }
 
 h1 {
