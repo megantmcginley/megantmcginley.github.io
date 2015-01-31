@@ -164,7 +164,9 @@ h1 {
 
 }
 
-
+.projects {
+  padding:10% 0px 10% 0px;
+}
 
 /*.projectsTable {
   background-color:black;
