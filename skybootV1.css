@@ -63,10 +63,10 @@ li.dropdown {
 
 
 .aboutfooter{
-  padding: 3% 0px 3% 0px;
+  padding: 2% 0px 2% 0px;
 }
 
-.btn>.toTop {
+.btn.toTop {
   color:#26bd3a;
   background-color:white;
 }
