@@ -105,7 +105,7 @@ background-image: url(https://lh6.googleusercontent.com/-h_Iua9RoZ60/VMniC0e8MEI
 }
 
 .currently {
-color:gray;
+  border-color:gray;
   border-right-style: solid;
 }
 
