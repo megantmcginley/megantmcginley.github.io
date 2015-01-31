@@ -69,6 +69,8 @@ li.dropdown {
 .btn.toTop>a, .btn.toTop>a:hover {
   color:#26bd3a;
   background-color:white;
+  border-color:#26bd3a;
+  text-decoration: none;
 }
 
 #jumbotron {
