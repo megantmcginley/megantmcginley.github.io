@@ -226,17 +226,17 @@ width: 100% \9;
 }
 
 
-.iconmelon.404icon,
-.im.404icon {
+.404icon>.iconmelon
+.404icon>.im {
   position: relative;
-  width: 240px;
-  height: 240px;
+  width: 128px;
+  height: 128px;
   display: block;
   fill: #525151;
 }
 
-.iconmelon.404icon:after,
-.im.404icon:after {
+.404icon>.iconmelon:after,
+.404icon>.im:after {
   content: '';
   position: absolute;
   top: 0;
