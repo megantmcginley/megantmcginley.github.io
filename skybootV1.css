@@ -184,6 +184,10 @@ h1 {
   padding:10% 0px 10% 0px;
 }
 
+.tabspace {
+  margin-left:4px;
+}
+
 /*.projectsTable {
   background-color:black;
   opacity:0.5;
@@ -209,6 +213,13 @@ width: 100% \9;
   overflow:hidden;
 }
 */
+
+
+
+
+
+
+
 
 .tableHeaderCustom {
   padding:22%;
