@@ -104,6 +104,10 @@ background-image: url(https://lh6.googleusercontent.com/-h_Iua9RoZ60/VMniC0e8MEI
 background-image: url(https://lh6.googleusercontent.com/-h_Iua9RoZ60/VMniC0e8MEI/AAAAAAAADco/fUd9yBeOX6c/s50-no/transpBlack10.png);
 }
 
+#leadpaddedjumbotron_ed {
+  padding:0px 0px 15% 0px;
+  background-color:white;
+}
 
 #paddedjumbogrey {
   padding:8% 0px 8% 0px;
