@@ -10,7 +10,7 @@ span {
   font-family: 'Glyphicons Halflings';
 }
 
-li, p, h2, h3, h4, h5, h6, small, span {
+li, p, h2, h3, h4, h5, h6, small, span, body {
     font-family: 'Raleway', sans-serif;
 }
 
